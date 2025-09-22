@@ -15,7 +15,8 @@ The pipeline also integrates evaluation metrics (**ROUGE** and **BERTScore**) to
 
 Below is a visual representation of how the **Automated Medical Report Summarizer & Explainer** pipeline works:
 
-![Pipeline Overview](<img width="957" height="295" alt="image" src="https://github.com/user-attachments/assets/5a6055d9-f10d-4a78-83a4-59727b891178" />)  
+![Pipeline Overview](![WhatsApp Image 2025-09-22 at 19 02 18_c7b41fe7](https://github.com/user-attachments/assets/68670023-b5f5-42d9-a7b3-c9e15f3baf1a)
+)  
 *Figure: From raw doctor–patient dialogues → Generated SOAP notes → Simplified patient-friendly summaries.*
 
 **Pipeline Steps:**  
