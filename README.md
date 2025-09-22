@@ -17,7 +17,7 @@ Below is a visual representation of how the **Automated Medical Report Summarize
 
 (![WhatsApp Image 2025-09-22 at 19 02 18_c7b41fe7](https://github.com/user-attachments/assets/68670023-b5f5-42d9-a7b3-c9e15f3baf1a)
 )  
-*Figure: From raw doctor–patient dialogues → Generated SOAP notes → Simplified patient-friendly summaries.*
+*Figure: From raw doctor–patient dialogues → Fine-Tunned LLM → Generated SOAP notes *
 
 **Pipeline Steps:**  
 1. **Input Dialogue** – Raw doctor–patient conversation.  
